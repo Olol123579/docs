@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+I Loli and my self a new phone number to get my phone number from you so I can call you and #!/usr/bin/env bash
 #-------------------------------------------------------------------------------------------------------------
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
